@@ -65,9 +65,9 @@ return array(
      *  cache_path:     __DIR__ . '/../cache/'
      *  alias_path:     null
      */
-    'image_path'        =>  __DIR__ . '/img/',
+    'image_path'        =>  __DIR__ . '/',
     'cache_path'        =>  __DIR__ . '/../cache/',
-    'alias_path'   =>  __DIR__ . '/img/alias/',
+    'alias_path'   =>  __DIR__ . '/alias/',
 
 
 
