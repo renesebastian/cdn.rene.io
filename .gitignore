@@ -14,3 +14,8 @@ build/
 
 # Mac OS
 .DS_Store
+
+public_html/blog/*
+public_html/collections/*
+public_html/headers/*
+public_html/publications/*

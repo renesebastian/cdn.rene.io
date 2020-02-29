@@ -1,0 +1,2 @@
+#Set the directory index als img.php , so I can call images on //cdn.rene.io?src=[parameters]
+DirectoryIndex img.php
