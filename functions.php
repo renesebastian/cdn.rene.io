@@ -62,6 +62,8 @@ function errorPage($msg, $type = 500)
     }
 
     error_log("[img.php] $msg");
+   
+    //Deze aanpassen Rene
     die("HTTP/1.0 $header");
 }
 
