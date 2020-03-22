@@ -1,0 +1,297 @@
+{
+  "sites": {
+    "site": [
+      {
+        "id": 1,
+        "sitename": "Renesebastian.nl",
+        "brand": "Rene Sebastian",
+        "url": "https://www.renesebastian.nl/",
+        "baseLang": "nl-nl",
+        "textLang": "Nederlands",
+        "slogan": "No nonsense media producties",
+        "knowsAbout": "Analoge fotografie, film fotografie, fotografie, aftermovies, event videos",
+        "footer": "All rights reserved - alle videos and foto's mogen <em>niet</em> herpubliceerd, gekopieerd, afgedrukt of gebruikt worden in elke vorm of medium zonder toestemming.",
+        "notFoundTitle": "404 - Content niet gevonden...",
+        "notFoundContent": "Ik weet niet wacht je zocht, maar ik kan het helaas niet vinden! Geen probleem, je kan zo terug <a href=\"/\">naar de homepage</a>!",
+        "gtag": "UA-40623174-3"
+      },
+      {
+        "id": 2,
+        "slug": "test",
+        "sitename": "Rene.io",
+        "brand": "Rene.io",
+        "url": "https://www.rene.io/",
+        "baseLang": "en-en",
+        "textLang": "English",
+        "slogan": "No nonsense media productions",
+        "knowsAbout": "Videography, digital photography, analog photography",
+        "footer": "All videos and photos may <em>not</em> be republished, copied, printed or used in any way, on any medium and under any circumstances without written consent.",
+        "notFoundTitle": "404 - Content not found...",
+        "notFoundContent": "Sorry, can't find the content you requested. Don't know what it was you are looking for, but it aint here! No sweat, you can zing right <a href=\"/\">back to the homepage</a>!",
+        "gtag": "UA-40623174-2"
+      }
+    ]
+  },
+  "pages": {
+    "page": [
+      {
+        "id": 1,
+        "name": "index",
+        "showMenu": false,
+        "showSitemap": true,
+        "structuredData": "default",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/nyc.jpg",
+              "template": "homepage-nl.php",
+              "h1": "Rene Sebastian",
+              "content": "Een gepasioneerde creativeling die vooral creërt vanuit uit passie. Van digitale tot analoge fotografie, het schieten en editen van film producties of UX en UI vraagstukken. Op dit portfolio staan de projecten die me het meest hebben geraakt. Meer weten? Bezoek de <a href=\"/over-mij\" title=\"Meer over Rene Sebastian\">over mij</a> pagina of neem anders gewoon <a href=\"/contact\" title=\"Contact\">contact</a> met me op!"
+            },
+            {
+              "lang": "en-en",
+              "metaTitle": "Rene Sebastian - No nonsense media productions",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, notshotonred, videoproduction, mediaproduction, drone photography, drone race photography, drl, drone racing league, drl photography, paaspop, we are electric, aftermovie, aftermovie nederland",
+              "metaDescription": "Hi, Rene Sebastian. I just do what I love to do. Whether it's shooting or editing video, digital or analog photography, UX, UI or even designing drone race tracks... I just do, what I love to do.",
+              "metaImage": "headers/nyc.jpg",
+              "template": "homepage-en.php",
+              "h1": "Rene.io",
+              "content": "I just do what I love to do. Whether it's shooting or editing video, digital or analog photography, front-end code or other UX, UI challenges... <em>I just do, what I love to do.</em> Feel free to roam around and check out the most important thing: my work that I want to showcase to you! If you insist and want to know more about me, head over to the <a href=\"/about\" title=\"More about Rene Sebastian\">about page</a>."
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "name": "collections",
+        "showMenu": true,
+        "showSitemap": true,
+        "structuredData": "default",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "slug": "fotografie",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/nyc.jpg",
+              "menuName": "fotografie",
+              "menuTitle": "Fotografie door Rene Sebastian",
+              "template": "collections.php",
+              "h1": "Fotografie",
+              "content": "Begonnen als concert fotograaf en verder ontwikkeld tot documentaire fotograaf. Vanaf 2018 weer helemaal verliefd geworden op analoge fotografie (film fotografie) en heb hier gelukkig al aardig wat foto projecten mee mogen uitvoeren. Ik hou er van om onzichtbaar, maar wel ín het moment te zijn. De échte ruwe emoties en momenten vastleggen. Onderstaande zijn dan ook projecten waar ik écht gelukkig van werd om te produceren en hopelijk jij ook. Iets op het oog? <a href=\"/contact\" title=\"Neem contact op\">Laat het me weten!</a>"
+            },
+            {
+              "lang": "en-en",
+              "slug": "collections",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/nyc.jpg",
+              "menuName": "collections",
+              "menuTitle": "Photo collections by Rene Sebastian",
+              "template": "collections.php",
+              "h1": "Photo collections",
+              "content": ""
+            }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "name": "videos",
+        "showMenu": true,
+        "showSitemap": true,
+        "structuredData": "default",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "slug": "videos",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/nyc.jpg",
+              "menuName": "videoproductie",
+              "menuTitle": "Videos door Rene Sebastian",
+              "template": "videos.php",
+              "h1": "Video productie",
+              "content": "Mijn video hart ligt in de evenementen/muziek industrie en documentaires. In afgelopen jaren heb ik alle kanten van het spectrum kunnen ontdekken. Van de kleinste popzaaltjes, tot werken met grote wereld artiesten. Onderstaande is een selectie van producties waar ik oprecht trots op ben. Vragen over een specifieke video of onderwerp? <a href=\"/contact\" title=\"Neem contact op\">Laat het me weten!</a>"
+            },
+            {
+              "lang": "en-en",
+              "slug": "videos",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/nyc.jpg",
+              "menuName": "videos",
+              "menuTitle": "Videos by Rene Sebastian",
+              "template": "videos.php",
+              "h1": "Videos",
+              "content": ""
+            }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "name": "about",
+        "showMenu": true,
+        "showSitemap": true,
+        "structuredData": "default",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "slug": "over-mij",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/nyc.jpg",
+              "menuName": "over mij",
+              "menuTitle": "Over Rene Sebastian",
+              "template": "about-nl.php",
+              "h1": "Over Rene Sebastian"
+            },
+            {
+              "lang": "en-en",
+              "slug": "about",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/nyc.jpg",
+              "menuName": "about",
+              "menuTitle": "About Rene Sebastian",
+              "template": "about-en.php",
+              "h1": "About"
+            }
+          ]
+        }
+      },
+      {
+        "id": 5,
+        "name": "contact",
+        "showMenu": true,
+        "showSitemap": true,
+        "structuredData": "default",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "slug": "contact",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/nyc.jpg",
+              "menuName": "contact",
+              "menuTitle": "Contact Rene Sebastian",
+              "template": "contact.php"
+            },
+            {
+              "lang": "en-en",
+              "slug": "contact",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/nyc.jpg",
+              "menuName": "contact",
+              "menuTitle": "Contact Rene Sebastian",
+              "template": "contact.php"
+            }
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "name": "collection",
+        "showMenu": false,
+        "showSitemap": false,
+        "loadCollection": true,
+        "structuredData": "collection",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "slug": "collectie",
+              "template": "collection.php",
+              "h1": "Geschoten voor ",
+              "content": "Meer over "
+            },
+            {
+              "lang": "en-en",
+              "slug": "collection",
+              "template": "collection.php",
+              "h1": "Shot for ",
+              "content": "More about "
+            }
+          ]
+        }
+      },
+      {
+        "id": 7,
+        "name": "video",
+        "showMenu": false,
+        "showSitemap": false,
+        "loadVideo": true,
+        "structuredData": "video",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "slug": "video",
+              "template": "video.php",
+              "h1": "Geproduceerd voor ",
+              "content": "Meer over "
+            },
+            {
+              "lang": "en-en",
+              "slug": "video",
+              "template": "video.php",
+              "h1": "Produced for ",
+              "content": "More about "
+            }
+          ]
+        }
+      },
+      {
+        "id": 8,
+        "name": "droneracing",
+        "showMenu": false,
+        "showSitemap": true,
+        "structuredData": "default",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "slug": "droneracing",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/drl.jpg",
+              "template": "collections.php",
+              "h1": "FPV Drone racing fotografie",
+              "content": "Als fanatieke dronepiloot zijnde snap ik 1 ding heel goed: hoe moet een drone goed in beeld komen. Gelukkig zagen meerdere partijen dit en wordt ik letterlijk over de hele wereld ingevlogen om mijn kijk op drones vast te leggen met mijn fotografie kunde. Wisselend van kleine events in Nederland tot gigantische producties voor de Amerikaanse televisie."
+            },
+            {
+              "lang": "en-en",
+              "slug": "droneracing",
+              "metaTitle": "Rene Sebastian - No nonsense media producties",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, analoge fotografie, fotografie, aftermovies, aftermovie, we are electric, paaspop, film fotografie",
+              "metaDescription": "Rene Sebastian is een creativeling gedreven door passie. Voor digitale als analoge fotografie, video productie, UX, UI of... eigenlijk alle creativiteit vraagstukken die je maar kan bedenken.",
+              "metaImage": "headers/drl.jpg",
+              "template": "collections.php",
+              "h1": "FPV Drone racing photography",
+              "content": ""
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

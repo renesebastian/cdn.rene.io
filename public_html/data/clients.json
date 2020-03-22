@@ -1,0 +1,231 @@
+{
+  "clients": {
+    "client": [
+      {
+        "name": "Event Warehouse",
+        "slug": "event-warehouse",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "content": "<p>Voorheen bekend als Paaspop Events, is Event Warehouse vooral verantwoordlijk voor de productionele kant van evenementen maar hebben zelf meerdere concepten in handen als Paaspop, We Are Electric, Helldorado, Legends Live en The Ace Of Spades. Daarnaast verzorgen ze de producties van vele festivals en evenementen in en rondom Eindhoven.</p><p>Sinds 2014 werk ik al nauw samen met The Event Warehouse en hebben ze me over de jaren heen altijd ontzettend veel vrijheid en vertrouwen gegeven.</p>"
+            },
+            {
+              "lang": "en-en",
+              "content": "<p>Formerly known as Paaspop Events, the Event Warehouse is mostly responsible for the production side of events. They have multiple concepts by themselves like Paaspop, We Are Electric, Helldorado, Legends Live and The Ace Of Spades. But also do the production of many festivals and events in the Eindhoven area in The Netherlands.</p><p>We've been working together since early 2014 and they truly are a loyal client. I'm greatfull that they have so much trust me in production after production.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Zomerparkfeest",
+        "slug": "zomerparkfeest",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "content": "<p>Je hebt festival crews en je hebt de beste festival crews. Zomerparkfeest valt overduidelijk in de laatste categorie. Ik ontmoette de mediacommissie voor het eerst tijdens een freelance opdracht gedurende het festival. Het klikte direct en vanaf 2015 heb ik elk jaar met ontzettend veel plezier de video producties voor het festival gerealiseerd. Er is een enorm goede balans tussen het krijgen van creatieve vrijheid en me elk jaar tot een hogere niveau te pushen.</p>"
+            },
+            {
+              "lang": "en-en",
+              "content": "<p>You have festival crews and you have the best festival crew, and Zomerparkfeest definitly is the last category. I first met the crew of Zomerparkfeest during a freelance job I did for a band at Zomerparkfeest. It really clicked and from 2015 till this date I've been so happy to shoot video for them. There is just a perfect balance between total creative freedom and pushing me to do something new every year.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Poppodium Grenswerk",
+        "slug": "poppodium-grenswerk",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Die Heise Bierfesten",
+        "slug": "die-heise-bierfesten",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "San Holo",
+        "additions": "/ Heroic / Bitbird",
+        "slug": "san-holo",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "content": "<p>Ik onmoette Sander voor het eerst tijdens een show in 2014 toen hij nog een dj/producer voor een rapgroep genaamd Prinsenkind. Vanaf moment 1 was ik verkocht aan zijn beats en bleef hem over de jaren heen volgen. Hij groeide hard, maar explodeerde pas echt in populariteit toen zijn single \"Light\" uitkwam.</p><p>We ontmoette elkaar weer tijdens We Ae Electric 2016 en ik bleef in contact staan met zijn management om een aantal nummers te gebruiken in een <a href=\"https://rene.io/video/wea-weekender-2018\" title=\"San Holo - We Are Electric Aftermovie 2018\">aftermovie</a> <a href=\"https://rene.io/video/we-are-electric-weekender-2016\" title=\"San Holo - We Are Electric Aftermovie 2016\">of twee</a> plus een <a href=\"https://vimeo.com/179825815/11984c55bb\" title=\"San Holo - We Are Electric Trailer\">trailer</a>. Alle nummers zijn maatwerk varianten speciaal voor de video producties.</p>"
+            },
+            {
+              "lang": "en-en",
+              "content": "<p>I first met San during a show in 2014 when he was a dj/producer for a rap group called Prinsenkind. I was hooked on his beats and I kept following him. He was growing in popularity fast, but he really sky rocketed when he released his single \"Light\".</p><p>We met again during the We Ae Electric gig in 2016 and afterwards I stayed in touch with his management for using several songs of his in an <a href=\"https://rene.io/video/wea-weekender-2018\" title=\"San Holo - We Are Electric Aftermovie 2018\">aftermovie</a> <a href=\"https://rene.io/video/we-are-electric-weekender-2016\" title=\"San Holo - We Are Electric Aftermovie 2016\">or two</a> plus a <a href=\"https://vimeo.com/179825815/11984c55bb\" title=\"San Holo - We Are Electric Trailer\">trailer</a>. All songs where custom edited or produced for these videos by him.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Extrema Network",
+        "slug": "extrema-network",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "DeWolff",
+        "addition": " / Momentum Agency",
+        "slug": "dewolff",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Snowstar Records",
+        "slug": "snowstar-records",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Dave Vermeulen",
+        "additions": "/ Voltage",
+        "slug": "voltage",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Two Days Left",
+        "slug": "two-days-left",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Drone Racing League",
+        "slug": "drl",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "content": "<p>De Allianz Drone Racing League aka DRL is de grootste dronerace competitie in de wereld welke wordt uitgezonden op NBC, Sky Sports, Twitter en voorheen ook op ESPN. De top 12 piloten van de hele wereld strijden hier op racetracks op de meest bizarre locaties over de hele wereld. Van grote stadia naar het BMW museum in München en zelfs een vakantie resort in Saoedi-Arabië. Wat je voorheen dacht dat onmogelijk was, wordt door DRL gerealiseerd.</p><p>In de zomer van 2018 kwam ik bij het DRL mediateam terecht en mocht tot nu toe al 5 evenementen voor ze schieten. Het evenemtent blijft elke keer een ontzettend goede leerschool door de gigantische (televisie) productie die wordt opgetuigd.</p>"
+            },
+            {
+              "lang": "en-en",
+              "content": "<p>The Allianz Drone Racing League aka DRL is the biggest drone racing competition in the world that gets broadcasted on NBC, Sky Sports, Twitter and formerly ESPN. The top 12 pilots from all over the world compete on race tracks in the most insane locations you have ever seen. From big stadiums to the BWM Welt museum in Munich and also a holiday resort in Saudi Arabia. What you thought was imposible, DRL realises.</p><p>I joined their media team in the summer of 2018 and got to shoot 5 events for them so far. Each and every single time I get blown away by the massive scale of the production and has been an exceptional good learning school for me.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "name": "iSeries Bermingham",
+        "slug": "iseries",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "content": "<p>De Allianz Drone Racing League aka DRL is de grootste dronerace competitie in de wereld welke wordt uitgezonden op NBC, Sky Sports, Twitter en voorheen ook op ESPN. De top 12 piloten van de hele wereld strijden hier op racetracks op de meest bizarre locaties over de hele wereld. Van grote stadia naar het BMW museum in München en zelfs een vakantie resort in Saoedi-Arabië. Wat je voorheen dacht dat onmogelijk was, wordt door DRL gerealiseerd.</p><p>In de zomer van 2018 kwam ik bij het DRL mediateam terecht en mocht tot nu toe al 5 evenementen voor ze schieten. Het evenemtent blijft elke keer een ontzettend goede leerschool door de gigantische (televisie) productie die wordt opgetuigd.</p>"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Multirotorparts.com",
+        "slug": "mrp",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "content": "<p>De Allianz Drone Racing League aka DRL is de grootste dronerace competitie in de wereld welke wordt uitgezonden op NBC, Sky Sports, Twitter en voorheen ook op ESPN. De top 12 piloten van de hele wereld strijden hier op racetracks op de meest bizarre locaties over de hele wereld. Van grote stadia naar het BMW museum in München en zelfs een vakantie resort in Saoedi-Arabië. Wat je voorheen dacht dat onmogelijk was, wordt door DRL gerealiseerd.</p><p>In de zomer van 2018 kwam ik bij het DRL mediateam terecht en mocht tot nu toe al 5 evenementen voor ze schieten. Het evenemtent blijft elke keer een ontzettend goede leerschool door de gigantische (televisie) productie die wordt opgetuigd.</p>"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Immersion RC",
+        "slug": "immersionrc",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Dutch Drone Gods",
+        "slug": "dutchdronegods",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "content": "<p>\"Een nieuwe generatie drone piloten\". Een stevige tagline voor een media productie bedrijf, maar gelukkig maken de heren het helemaal waar. Ze kennen drones door en door en hebben een vaardigheidsniveau waar je U tegen zegt. Ze leggen beeld vast op een manier die letterlijk ongezien is. Ook uitblinken met droneshots in je video productie? Schakel dan vooral <a href=\"https://www.dutchdronegods.com\" title=\"Dutch Drone Gods\" target=\"_blank\">deze jongens in</a>.</p>"
+            },
+            {
+              "lang": "en-en",
+              "content": "<p>\"A new generation of drone pilots\", and for once the tagline of a production company is <em>not</em> a lie. These guys know drones inside out and have the highest pilot skill level you can imagen. Capturing cinematic shots in ways you would never think were possible. Do you really want to stand out with drone shots? <a href=\"https://www.dutchdronegods.com\" title=\"Dutch Drone Gods\" target=\"_blank\">Hire these guys</a>.</p>"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
