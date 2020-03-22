@@ -5,4 +5,3 @@ Somewhat adjusted codebase to serve as CDN for [rene.io](https://www.rene.io) an
 - Optimized as CDN
 - Stripped clean of unnecessary code and files
 - Did some error messasing adjustments
-- 
