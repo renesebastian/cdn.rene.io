@@ -4,6 +4,28 @@
       {
         "type": "collections",
         "client": "event-warehouse",
+        "loopcount": 15,
+        "slug": "chef-special-zomertheater",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "title": "Chef Special - Zomertheater",
+              "content": "Een mooi zomers feest na een lange periode van stilte in de evenementen wereld. Wellicht dat het daardoor nog een veel mooier feest werd met Chef Special in het Zomertheater in Den Bosch. Met een extra speciaal randje gezien het concert analoog geschoten is (op film). Het hoogtepunt van de avond is daar als zanger Joshua in 1 van de stellages hangt om het publiek van grotere hoogte toe te zingen.<br /><br />- Geschoten op Ilford Delta 3200 op 35mm en 120mm film.",
+              "public": true
+            },
+            {
+              "lang": "en-en",
+              "title": "Chef Special - Zomertheater",
+              "content": "After a long period of silence due to the corona virus it was time to photograph my first event again. It felt so good to be back, but also shooting it on film made it extra special. Here is a small selection of the 5 rolls of film being shot.<br /><br />- Shot on Ilford Delta 3200 on 35mm and 120mm film.",
+              "public": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "collections",
+        "client": "event-warehouse",
         "loopcount": 21,
         "slug": "legends-live-tribute-tour-on-stage",
         "languages": {

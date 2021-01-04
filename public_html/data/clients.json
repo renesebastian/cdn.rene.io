@@ -211,6 +211,20 @@
         }
       },
       {
+        "name": "Nederlandse Ski Vereniging",
+        "slug": "nskiv",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
         "name": "Dutch Drone Gods",
         "slug": "dutchdronegods",
         "languages": {
@@ -222,6 +236,34 @@
             {
               "lang": "en-en",
               "content": "<p>\"A new generation of drone pilots\", and for once the tagline of a production company is <em>not</em> a lie. These guys know drones inside out and have the highest pilot skill level you can imagen. Capturing cinematic shots in ways you would never think were possible. Do you really want to stand out with drone shots? <a href=\"https://www.dutchdronegods.com\" title=\"Dutch Drone Gods\" target=\"_blank\">Hire these guys</a>.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "name": "DADA",
+        "slug": "dada",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Museum Jan Cunen",
+        "slug": "mjc",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl"
+            },
+            {
+              "lang": "en-en"
             }
           ]
         }
