@@ -2,6 +2,34 @@
   "videos": {
     "video": [
       {
+        "id": 589888621,
+        "thumbid": 1228918808,
+        "client": "dutchdronegods",
+        "slug": "dutchdronegods-showreel",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "title": "Dutch Drone Gods",
+              "keywords": "Dutch Drone Gods, showreel, drone video, cinematic drone, cinematic drone shots, drone shots, drone video, shaggyfpv, shaggy fpv, Vince Irie",
+              "content": "Keuzes keuzes keuzes, welk shot gaat er wel in, welke niet. Showreels zijn moeilijk om te editten. De laatste anderhalf jaar sinds het uitkomen van onze vorige showreel waren ongelofelijk. We hebben bizarre dingen mogen filmen, zijn om de meest toffe locaties geweest en hebben ons best gedaan om mensen te doen verbazen met onze shots. Zoals we zeggen; Vlieg overal, altijd en overal doorheen, in highend kwaliteit. De mogelijkheden zijn écht eindeloos.",
+              "release": "Februari 2020",
+              "category": "Showreel",
+              "public": true
+            },
+            {
+              "lang": "en-en",
+              "title": "Dutch Drone Gods",
+              "keywords": "Dutch Drone Gods, showreel, drone video, cinematic drone, cinematic drone shots, drone shots, drone video, shaggyfpv, shaggy fpv, Vince Irie",
+              "content": "Showreels are hands down the hardest things to edit. Kill your darlings and make hard choices. Over the last year and a half since our last showreel we've seen so many new things, flew at the most awesome locations and blew peoples minds as much as we could. So the pressure for a new good showreel was on. Enjoy our latest work from all over the world for the biggest brands!",
+              "release": "February 2020",
+              "category": "Showreel",
+              "public": true
+            }
+          ]
+        }
+      },
+      {
         "id": 468436966,
         "thumbid": 983618296,
         "client": "dada",
@@ -48,34 +76,6 @@
               "keywords": "zomerparkfeest, zomer, parkfeest, zomer parkfeest, venlo, zpf, zpf venlo, zpf aftermovie, zomerparkfeest video, zomerparkfeest aftermovie",
               "release": "August 2019",
               "category": "Short film",
-              "public": true
-            }
-          ]
-        }
-      },
-      {
-        "id": 383362614,
-        "thumbid": 844775730,
-        "client": "dutchdronegods",
-        "slug": "dutchdronegods-showreel",
-        "languages": {
-          "language": [
-            {
-              "lang": "nl-nl",
-              "title": "Dutch Drone Gods",
-              "keywords": "Dutch Drone Gods, showreel, drone video, cinematic drone, cinematic drone shots, drone shots, drone video, shaggyfpv, shaggy fpv, Vince Irie",
-              "content": "Showreels zijn één van de lastigste producties om in elkaar te zetten. Maar toch, toen ik gevraagd werd om de showreel te editen, graden en sounddesignen voor Dutch Drone Gods, greep ik de uitdagen met 2 handen aan. Deze mannen hebben mogen schieten op de meest fantastische plekken op aarde op een manier waar vele nog verrast door zullen worden. In totaal kreeg ik 6 uur aan beeld materiaal aangeleverd, werd het terug gebracht naar een selectie van 15 minuten en zitten er uiteindelijk 278 clips in de 2 minuten durende showreel. Deze bevat beeld voor TV shows en online producties voor grote merken als Red Bull, Defqon 1, Insta 360, Jeep, Armin van Buuren en vele meer.",
-              "release": "Februari 2020",
-              "category": "Showreel",
-              "public": true
-            },
-            {
-              "lang": "en-en",
-              "title": "Dutch Drone Gods",
-              "keywords": "Dutch Drone Gods, showreel, drone video, cinematic drone, cinematic drone shots, drone shots, drone video, shaggyfpv, shaggy fpv, Vince Irie",
-              "content": "Showreels are one of the hardest things to produce and I could never settle on one for myself. But when I got asked to edit, grade and sounddesign the showreel for Dutch Drone Gods I immediately took on the challenge. These guys get to shoot at the most insane locations all over the world and capture it in such an unique way that it's truly mind blowing. In The showreel contains shots for TV shows and online productions for big brands like Red Bull, Defqon 1, Insta 360, Jeep, Armin van Buuren and many more.",
-              "release": "February 2020",
-              "category": "Showreel",
               "public": true
             }
           ]
@@ -208,6 +208,34 @@
               "client": "event-warehouse",
               "release": "April 2017",
               "category": "Aftermovie",
+              "public": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 383362614,
+        "thumbid": 844775730,
+        "client": "dutchdronegods",
+        "slug": "dutchdronegods-showreel",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "title": "Dutch Drone Gods",
+              "keywords": "Dutch Drone Gods, showreel, drone video, cinematic drone, cinematic drone shots, drone shots, drone video, shaggyfpv, shaggy fpv, Vince Irie",
+              "content": "Showreels zijn één van de lastigste producties om in elkaar te zetten. Maar toch, toen ik gevraagd werd om de showreel te editen, graden en sounddesignen voor Dutch Drone Gods, greep ik de uitdagen met 2 handen aan. Deze mannen hebben mogen schieten op de meest fantastische plekken op aarde op een manier waar vele nog verrast door zullen worden. In totaal kreeg ik 6 uur aan beeld materiaal aangeleverd, werd het terug gebracht naar een selectie van 15 minuten en zitten er uiteindelijk 278 clips in de 2 minuten durende showreel. Deze bevat beeld voor TV shows en online producties voor grote merken als Red Bull, Defqon 1, Insta 360, Jeep, Armin van Buuren en vele meer.",
+              "release": "Februari 2020",
+              "category": "Showreel",
+              "public": true
+            },
+            {
+              "lang": "en-en",
+              "title": "Dutch Drone Gods",
+              "keywords": "Dutch Drone Gods, showreel, drone video, cinematic drone, cinematic drone shots, drone shots, drone video, shaggyfpv, shaggy fpv, Vince Irie",
+              "content": "Showreels are one of the hardest things to produce and I could never settle on one for myself. But when I got asked to edit, grade and sounddesign the showreel for Dutch Drone Gods I immediately took on the challenge. These guys get to shoot at the most insane locations all over the world and capture it in such an unique way that it's truly mind blowing. In The showreel contains shots for TV shows and online productions for big brands like Red Bull, Defqon 1, Insta 360, Jeep, Armin van Buuren and many more.",
+              "release": "February 2020",
+              "category": "Showreel",
               "public": true
             }
           ]

@@ -17,7 +17,6 @@
       },
       {
         "id": 2,
-        "slug": "test",
         "sitename": "Rene.io",
         "brand": "Rene.io",
         "url": "https://www.rene.io/",
@@ -288,6 +287,39 @@
               "template": "collections.php",
               "h1": "FPV Drone racing photography",
               "content": "As a droneracer myself I understand one thing perfectly. How to frame and capture drones in photo and video. And luckily drone race organizers from all over the world saw that as well. If you are looking for a drone race photographer that understands safety and racelines and is used to work on big productions, <a href=\"/contact\" title=\"Contact Rene Sebastian\">do send me a message!</a>"
+            }
+          ]
+        }
+      },
+      {
+        "id": 9,
+        "name": "dronedirecting",
+        "showMenu": false,
+        "showSitemap": true,
+        "structuredData": "default",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "slug": "dronedirector",
+              "metaTitle": "Rene Sebastian - Dronedirector",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, rene.io, drone, drone operator, drone video, drone fotografie, drone commercial, drone director, drone ad, drone assistent",
+              "metaDescription": "In samenwerking met Dutch Drone Gods garanderen we droneshots die je nog nooit eerder zag. De schakel op de set tussen een regisseur en de drone operator.",
+              "metaImage": "headers/drl.jpg",
+              "template": "videos.php",
+              "h1": "Drone director / drone AD",
+              "content": "Als dronepiloot gestart, maar tegenwoordig volledig gefoccused op het regisseren van drones op de set. Of dat nu samenwerken is met de regisseur op de set of de droneshots zelf regisseren, we komen hoe dan ook tot de beste vliegopties voor jouw film. Samen met de piloten van <a href=\"https://www.dutchdronegods.com\" title=\"Dutch Drone Gods\">Dutch Drone Gods</a> garandeer ik droneshots te kunnen leveren die je nog nooit eerder zag. In alle onderstaande projecten zijn alle droneshots volledig of deels geregisseerd door mij, in samenwerking met Dutch Drone Gods."
+            },
+            {
+              "lang": "en-en",
+              "slug": "dronedirector",
+              "metaTitle": "Rene Sebastian - Drone cinematography director",
+              "metaKeywords": "Rene Sebastian, rene, sebastian, drone, drone photography, drone operator, drone directing, drone dop, drone ad, drone director, drone assistant director, drone assistant",
+              "metaDescription": "The key element between a set director and a drone operator. In collaboration with Dutch Drone Gods we guarantee you droneshots you've never seen before.",
+              "metaImage": "headers/drl.jpg",
+              "template": "videos.php",
+              "h1": "Drone director / drone AD",
+              "content": "Started as a dronepilot myself, nowadays I purely focus on being a drone director on set. Wether that means working <em>with</em> the director or directing the full drone shots myself, we come up with the best flight paths for your film. Together with the pilots of <a href=\"https://www.dutchdronegods.com\" title=\"Dutch Drone Gods\">Dutch Drone Gods</a> we guarantee you, you'll see droneshots you've never seen before! All the projects below are projects I was drone director or drone AD, in collaboration with Dutch Drone Gods."
             }
           ]
         }

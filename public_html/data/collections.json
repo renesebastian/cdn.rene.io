@@ -4,7 +4,51 @@
       {
         "type": "collections",
         "client": "event-warehouse",
-        "loopcount": 15,
+        "loopcount": 30,
+        "slug": "paaspop-xs-2021",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "title": "Paaspop XS",
+              "content": "Van 75.000 terug naar 750 bezoekers. Het was geen makkelijke opgave, maar ik kan alleen maar bewondering hebben dat de organisatie toch een editie in van Paaspop in 2021 wilde neerzetten. Wederom kwam de vraag van de organisatie om naar eigen invulling het festival in beeld te brengen op film. <br /><br />- Geschoten op Portra 400 en 800 op 35mm en 120mm film.",
+              "public": true
+            },
+            {
+              "lang": "en-en",
+              "title": "Paaspop XS",
+              "content": "From 75.000 back to 750 visitors due to covid restrictions. But I admire the festival organisation to make this years Paaspop happen either way. Once again I was asked to photography the festival in my own way, fully shot on film.<br /><br />- Shot on Portra 400 and 800 on 35mm and 120mm film.",
+              "public": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "collections",
+        "client": "event-warehouse",
+        "loopcount": 10,
+        "slug": "typhoon-zomertheater",
+        "languages": {
+          "language": [
+            {
+              "lang": "nl-nl",
+              "title": "Typhoon - Zomertheater",
+              "content": "Hoe een avond met Typhoon te omschrijven zonder hem enorm tekort te doen. Weinig mensen die zo bijzonder veel enthousiasme, energie en charisma uitstralen dan deze man. Vanaf seconde één is was het liefde, feest, verbondenheid. Je vereerd voelen om een show als deze vast te mogen leggen, laat staan analoog.<br /><br />- Geschoten op Portra 800 & Ilford Delta 3200 op 35mm en 120mm film.",
+              "public": true
+            },
+            {
+              "lang": "en-en",
+              "title": "Typhoon - Zomertheater",
+              "content": "Photographing Typhoon, I think words will do no justice to the enthusiasm, energy, charisma and love this man brings to the table from the first moment he sets his bare foot on the stage. You can call it a blessing to shoot him live... or really anytime to be honest.<br /><br />- Shot on Portra 800 & Ilford Delta 3200 on 35mm and 120mm film.",
+              "public": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "collections",
+        "client": "event-warehouse",
+        "loopcount": 21,
         "slug": "chef-special-zomertheater",
         "languages": {
           "language": [
@@ -93,7 +137,7 @@
       },
       {
         "type": "collections",
-        "loopcount": 18,
+        "loopcount": 24,
         "slug": "coney-island-new-york-city",
         "languages": {
           "language": [
@@ -240,7 +284,7 @@
               "lang": "nl-nl",
               "title": "DRL Saudi Arabia Finals",
               "keywords": "DRL, Drone, racing, league, drone racing league, saudi, arabia, kaec, drone race saudi, drl saudi arabia, drone racing league saudi arabia",
-              "content": "De laatste race van het Drone Racing League seizoen van 2018 werd gehouden op een wel heel bijzondere locatie. Een compleet gedeelte van een vakantie resort in King Abdullah Economic City (ook bekend als KAEC) werd afgegesloten voor de productie van het event. Dit waren waarschijnlijk de meest zware (weers)omstandigheden waar ik ooit een productie heb moeten doen. Met temperaturen tot 45 graden en een luchtvochtigheid van 95% had alle camera gear het er ook behoorlijk zwaar mee. Alle apparatuur moest minstens een uur voor gebruik al aan de buitentemperatuur worden bloot gesteld om uberhaupt correct te functioneren. Uiteindelijk was het een bijzonder succesvol evenement.",
+              "content": "De laatste race van het Drone Racing League seizoen van 2019 werd gehouden op een wel heel bijzondere locatie. Een compleet gedeelte van een vakantie resort in King Abdullah Economic City (ook bekend als KAEC) werd afgegesloten voor de productie van het event. Dit waren waarschijnlijk de meest zware (weers)omstandigheden waar ik ooit een productie heb moeten doen. Met temperaturen tot 45 graden en een luchtvochtigheid van 95% had alle camera gear het er ook behoorlijk zwaar mee. Alle apparatuur moest minstens een uur voor gebruik al aan de buitentemperatuur worden bloot gesteld om uberhaupt correct te functioneren. Uiteindelijk was het een bijzonder succesvol evenement.",
               "public": true
             },
             {
