@@ -2,8 +2,8 @@
   "videos": {
     "video": [
       {
-        "id": 589888621,
-        "thumbid": "1228918808-7769c23c2c40fe4b3e4434a97020f50839fb490a63055448218a985893c26796-d",
+        "id": "X1rqFZarES",
+        "thumbid": "c6b8c040-f3a6-4ba7-9c00-1c15bd447078",
         "client": "dutchdronegods",
         "slug": "dutchdronegods-showreel",
         "languages": {
@@ -30,8 +30,8 @@
         }
       },
       {
-        "id": 468436966,
-        "thumbid": "983618296-ef92e85d10b3f2bc4c0ebf5630820098e9d4e3b38d46ffa8375f85ad423067bd-d",
+        "id": "vLRdeMjTjY",
+        "thumbid": "c8140ff9-b235-443b-b977-95a1bb4a928c",
         "client": "dada",
         "slug": "dada-moeilijk-zat",
         "languages": {
@@ -56,8 +56,8 @@
         }
       },
       {
-        "id": 354959826,
-        "thumbid": "808296682-2d23487c88fed1e968dc62c83a6c538b76082246ea742d29ae81a1f45cda6ca2-d",
+        "id": "xziwBH9JJU",
+        "thumbid": "63f2f624-abcd-47b4-9214-d92a0c63e2c1",
         "client": "zomerparkfeest",
         "slug": "zomerparkfeest-2019",
         "languages": {
@@ -82,8 +82,8 @@
         }
       },
       {
-        "id": 455528008,
-        "thumbid": "953510381-2f46e7d05cfe1541c60867a40a4e66591f9dae4f441ac220f19883ec5b79c2ca-d",
+        "id": "co63MH78N7",
+        "thumbid": "3c446648-8462-43a8-bbd4-2ee24086c225",
         "client": "nskiv",
         "slug": "wintersport-begint-in-nederland",
         "languages": {
@@ -106,8 +106,8 @@
         }
       },
       {
-        "id": 433928740,
-        "thumbid": "916742572-dfa90336fb0fe8018180dd55f52df4eedf4bb2639cd1ab2dcc3d0f513cb0f41f-d",
+        "id": "PZrrywazmx",
+        "thumbid": "24056fb0-b465-4eab-9c9f-2fd742ca284b",
         "client": "mjc",
         "slug": "museum-jan-cunen-oss",
         "languages": {
@@ -130,8 +130,8 @@
         }
       },
       {
-        "id": 279050316,
-        "thumbid": "715425167-877e3306f77c010ca6fcba0078f4cea6a15c87c3e1ec25aa3f8ff3abf643e3c4-d",
+        "id": "x6DT2nkUBR",
+        "thumbid": "4a53bf46-2ce4-46ab-8732-5916615122e4",
         "client": "event-warehouse",
         "slug": "martin-garrix-we-are-electric-weekender-2018",
         "languages": {
@@ -156,8 +156,8 @@
         }
       },
       {
-        "id": 288187221,
-        "thumbid": "723522612-fbb00527ecc1c8741302c1bb97bd9cd2ca2665b8b62aa2c013812d2e975aeb9f-d",
+        "id": "SFvJYYZyfD",
+        "thumbid": "ac4f4335-505a-40c8-8912-bbbe36d909e5",
         "client": "dewolff",
         "slug": "dewolff-double-crossing-man",
         "languages": {
@@ -187,8 +187,8 @@
         "complementaryId": "288543861"
       },
       {
-        "id": 214294687,
-        "thumbid": "630731443-fddba844926f82643d70622a2773baf59b7a350992fc32a3f9e92199a4fc0292-d",
+        "id": "KYYZAGaC9g",
+        "thumbid": "339ef1ff-0739-42c7-8318-a18db102cc88",
         "client": "event-warehouse",
         "slug": "paaspop-2017",
         "languages": {
@@ -214,8 +214,8 @@
         }
       },
       {
-        "id": 309064567,
-        "thumbid": "749356186-ab385dd5e8593b2c9c91ed285dfa0bece716e46b6c7ac790d48de9127940df17-d",
+        "id": "wIF1076Udm",
+        "thumbid": "5e579541-dab1-4062-b99a-e308fa30a6c6",
         "client": "event-warehouse",
         "slug": "helldorado-2018",
         "languages": {
@@ -240,34 +240,8 @@
         }
       },
       {
-        "id": 286776877,
-        "thumbid": "721757695-a935a3d4dd11adc99acab13a787cd3f63298c92874df6fea304d74a74bb2b5ac-d",
-        "client": "zomerparkfeest",
-        "slug": "zomerparkfeest-2018",
-        "languages": {
-          "language": [
-            {
-              "lang": "nl-nl",
-              "title": "Zomerparkfeest 2018",
-              "keywords": "zpf, zomerparkfeest, zomer park feest, zomerparkfeest venlo, zomerparkfeest aftermovie, zomerparkfeest video",
-              "release": "Augustus 2018",
-              "category": "Aftermovie",
-              "public": true
-            },
-            {
-              "lang": "en-en",
-              "title": "Zomerparkfeest 2018",
-              "keywords": "zpf, zomerparkfeest, zomer park feest, zomerparkfeest venlo, zomerparkfeest aftermovie, zomerparkfeest video",
-              "release": "August 2018",
-              "category": "Aftermovie",
-              "public": true
-            }
-          ]
-        }
-      },
-      {
-        "id": 280237610,
-        "thumbid": "713679722-1f89cc423967d514cb079552763de1502d72c46db6bc61c82955918fc768af78-d",
+        "id": "wSb8SnNQ7R",
+        "thumbid": "a2a0c91c-72f5-460e-a36d-be0595870d94",
         "client": "event-warehouse",
         "slug": "wea-weekender-2018",
         "languages": {
@@ -297,34 +271,8 @@
         "complementaryId": "298563600"
       },
       {
-        "id": 87931967,
-        "thumbid": "467722804-bc520d29df0a135a5c2a0a4deac90890587b1555303b3336c58b35291009bfeb-d",
-        "client": "two-days-left",
-        "slug": "two-days-left-singularity",
-        "languages": {
-          "language": [
-            {
-              "lang": "nl-nl",
-              "title": "Two Days Left - Singularity",
-              "keywords": "Two Days Left, videoclip, band videoclip, metal video, muziek video, music video",
-              "release": "Maart 2014",
-              "category": "Videoclip",
-              "public": true
-            },
-            {
-              "lang": "en-en",
-              "title": "Two Days Left - Singularity",
-              "keywords": "Two Days Left, videoclip, band videoclip, metal video, muziek video, music video",
-              "release": "March 2014",
-              "category": "Music video",
-              "public": true
-            }
-          ]
-        }
-      },
-      {
-        "id": 174089008,
-        "thumbid": "580792162-116aa9baf336b3510045db0ab54cd900330ed86fed73747c0d98dbda08a8ca39-d",
+        "id": "yvzGExSjqC",
+        "thumbid": "dd09e488-7b85-42a0-85fe-dcda356ee414",
         "client": "extrema-network",
         "slug": "extrema-outdoor-2016",
         "languages": {
@@ -349,8 +297,8 @@
         }
       },
       {
-        "id": 181929388,
-        "thumbid": "591130435-2095ce7ba9c9b808a66d5432ef1afd879526cff804ad3396508d21589bccea15-d",
+        "id": "3TMgfVLudb",
+        "thumbid": "c12541e7-5fd7-464e-a9e8-7fc616050893",
         "client": "extrema-network",
         "slug": "die-heise-bierfesten-2016",
         "languages": {
@@ -367,30 +315,6 @@
               "title": "Die Heise Bierfesten",
               "release": "September 2016",
               "category": "Aftermovie",
-              "public": true
-            }
-          ]
-        }
-      },
-      {
-        "id": 87337282,
-        "thumbid": "465361977-47f15c04c0344adc8778ea2247651fd7724279f0a38fdc458bf1aef7d47aaf36-d",
-        "client": "voltage",
-        "slug": "voltage-cruisin",
-        "languages": {
-          "language": [
-            {
-              "lang": "nl-nl",
-              "title": "Voltage - Cruisin",
-              "release": "",
-              "category": "Videoclip",
-              "public": true
-            },
-            {
-              "lang": "en-en",
-              "title": "Voltage - Cruisin'",
-              "release": "",
-              "category": "Music video",
               "public": true
             }
           ]
