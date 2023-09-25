@@ -97,12 +97,12 @@
               "commissionedBy": "",
               "type": "musicvideos",
               "functionsNL": [
-                  "Drone regie",
+                  "Drone regisseur",
                   "Drone safety operator",
                   "Show preproductie drone team"
               ],
               "functionsEN": [
-                  "Drone direction",
+                  "Drone director",
                   "Drone safety operator",
                   "Show preproduction drone team"
               ],
@@ -121,7 +121,7 @@
                 "Drone safety operator"
             ],
             "functionsEN": [
-                "Drone Director of Photography",
+                "Drone DOP",
                 "Drone safety operator"
             ],
             "years": [
@@ -135,16 +135,17 @@
             "commissionedBy": "Sterntag",
             "type": "commercial",
             "functionsNL": [
-                "Drone regie",
+                "Drone regisseur",
                 "Drone safety operator"
             ],
             "functionsEN": [
-                "Drone direction",
+                "Drone director",
                 "Drone safety operator"
             ],
             "years": [
                 {
-                    "year": "2020"
+                    "year": "2020",
+                    "link": "https://www.youtube.com/watch?v=g4vmDtTLsyk"
                 }
             ]
         },
@@ -153,11 +154,11 @@
             "commissionedBy": "Magenta Films",
             "type": "commercial",
             "functionsNL": [
-                "Drone regie",
+                "Drone regisseur",
                 "Drone safety operator"
             ],
             "functionsEN": [
-                "Drone direction",
+                "Drone director",
                 "Drone safety operator"
             ],
             "years": [
@@ -172,12 +173,12 @@
             "commissionedBy": "Magenta Films",
             "type": "commercial",
             "functionsNL": [
-                "Drone regie",
+                "Drone regisseur",
                 "Drone operator",
                 "Drone safety operator"
             ],
             "functionsEN": [
-                "Drone direction",
+                "Drone director",
                 "Drone operator",
                 "Drone safety operator"
             ],
@@ -196,7 +197,7 @@
                 "1st AD"
             ],
             "functionsEN": [
-                "1st Assistant Director"
+                "1st AD"
             ],
             "years": [
                 {
@@ -209,7 +210,7 @@
             "commissionedBy": "Fabel Film",
             "type": "commercial",
             "functionsNL": [
-                "Co-director"
+                "Co-regisseur"
             ],
             "functionsEN": [
                 "Co-director"
@@ -222,6 +223,22 @@
             ]
         },
         {
+            "name": "Floris Van Bommel",
+            "commissionedBy": "Van Bommel",
+            "type": "commercial",
+            "functionsNL": [
+                "Drone regisseur"
+            ],
+            "functionsEN": [
+                "Drone director"
+            ],
+            "years": [
+                {
+                    "year": "2023"
+                }
+            ]
+        },
+        {
             "name": "Heijmans (internal promo)",
             "commissionedBy": "Magenta Films",
             "type": "commercial",
@@ -230,7 +247,7 @@
                 "Gimbal operator"
             ],
             "functionsEN": [
-                "1st Assistant Director",
+                "1st AD",
                 "Gimbal operator"
             ],
             "years": [
@@ -244,11 +261,11 @@
             "commissionedBy": "Eyeforce, Dept Agency",
             "type": "commercial",
             "functionsNL": [
-                "Drone regie",
+                "Drone regisseur",
                 "Drone safety operator"
             ],
             "functionsEN": [
-                "Drone direction",
+                "Drone director",
                 "Drone safety operator"
             ],
             "years": [
@@ -263,10 +280,10 @@
             "commissionedBy": "",
             "type": "commercial",
             "functionsNL": [
-                "Drone regie"
+                "Drone regisseur"
             ],
             "functionsEN": [
-                "Drone direction"
+                "Drone director"
             ],
             "years": [
                 {
@@ -279,10 +296,28 @@
             "commissionedBy": "",
             "type": "commercial",
             "functionsNL": [
-                "Drone regie"
+                "Drone regisseur"
             ],
             "functionsEN": [
-                "Drone direction"
+                "Drone director"
+            ],
+            "years": [
+                {
+                    "year": "2022"
+                }
+            ]
+        },
+        {
+            "name": "KLM Catering",
+            "commissionedBy": "VDCAMP Media",
+            "type": "commercial",
+            "functionsNL": [
+                "Drone regisseur",
+                "Drone safety operator"
+            ],
+            "functionsEN": [
+                "Drone director",
+                "Drone safety operator"
             ],
             "years": [
                 {
@@ -298,7 +333,7 @@
                 "Drone 1st AD"
             ],
             "functionsEN": [
-                "Drone 1st Assistant Director"
+                "Drone 1st AD"
             ],
             "years": [
                 {
@@ -311,11 +346,11 @@
             "commissionedBy": "180 Amsterdam",
             "type": "commercial",
             "functionsNL": [
-                "Drone regie",
+                "Drone regisseur",
                 "Drone safety operator"
             ],
             "functionsEN": [
-                "Drone direction",
+                "Drone director",
                 "Drone safety operator"
             ],
             "years": [
@@ -330,11 +365,11 @@
             "commissionedBy": "Eyeforce, Ministry of Defence",
             "type": "commercial",
             "functionsNL": [
-                "Drone regie",
+                "Drone regisseur",
                 "Drone safety operator"
             ],
             "functionsEN": [
-                "Drone direction",
+                "Drone director",
                 "Drone safety operator"
             ],
             "years": [
@@ -389,6 +424,58 @@
             ]
         },
         {
+            "name": "NPO Luister",
+            "commissionedBy": "Pinkrabbit, NPO",
+            "type": "commercial",
+            "functionsNL": [
+                "Drone regisseur",
+                "Drone safety operator"
+            ],
+            "functionsEN": [
+                "Drone director",
+                "Drone safety operator"
+            ],
+            "years": [
+                {
+                    "year": "2023",
+                    "link": "https://www.youtube.com/watch?v=U7eLysh6G10"
+                }
+            ]
+        },
+        {
+            "name": "Nike - Global Running Day",
+            "commissionedBy": "Lab22",
+            "type": "commercial",
+            "functionsNL": [
+                "Drone operator"
+            ],
+            "functionsEN": [
+                "Drone operator"
+            ],
+            "years": [
+                {
+                    "year": "2023",
+                    "link": "https://www.fjuze.com/case/nike-global-running-day/#aftermovie"
+                }
+            ]
+        },
+        {
+            "name": "Nike - Her Playground",
+            "commissionedBy": "Mediamonks",
+            "type": "commercial",
+            "functionsNL": [
+                "Drone operator"
+            ],
+            "functionsEN": [
+                "Drone operator"
+            ],
+            "years": [
+                {
+                    "year": "2023"
+                }
+            ]
+        },
+        {
             "name": "Olround Bowling",
             "commissionedBy": "",
             "type": "commercial",
@@ -396,7 +483,7 @@
                 "1st AD"
             ],
             "functionsEN": [
-                "1st Assistant Director"
+                "1st AD"
             ],
             "years": [
                 {
@@ -406,15 +493,31 @@
             ]
         },
         {
+            "name": "Red Bull - Freedive de Heff",
+            "commissionedBy": "Shjark Action Sports Management",
+            "type": "commercial",
+            "functionsNL": [
+                "Drone safety operator"
+            ],
+            "functionsEN": [
+                "Drone safety operator"
+            ],
+            "years": [
+                {
+                    "year": "2023"
+                }
+            ]
+        },
+        {
             "name": "Rotterdam Tourism - Eurovision promo",
             "commissionedBy": "Falsum",
             "type": "commercial",
             "functionsNL": [
-                "Drone regie",
+                "Drone regisseur",
                 "Drone safety operator"
             ],
             "functionsEN": [
-                "Drone direction",
+                "Drone director",
                 "Drone safety operator"
             ],
             "years": [
@@ -425,16 +528,34 @@
             ]
         },
         {
+            "name": "Toverland",
+            "commissionedBy": "",
+            "type": "commercial",
+            "functionsNL": [
+                "Drone regisseur",
+                "Drone safety operator"
+            ],
+            "functionsEN": [
+                "Drone director",
+                "Drone safety operator"
+            ],
+            "years": [
+                {
+                    "year": "2023"
+                }
+            ]
+        },
+        {
             "name": "Youseeq \"House of Youseeq\"",
             "commissionedBy": "Dutch Film House",
             "type": "commercial",
             "functionsNL": [
                 "1st AD",
-                "Drone regie"
+                "Drone regisseur"
             ],
             "functionsEN": [
-                "1st Assistant Director",
-                "Drone direction"
+                "1st AD",
+                "Drone director"
             ],
             "years": [
                 {
@@ -533,12 +654,12 @@
           "commissionedBy": "Creventic",
           "type": "broadcast",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone operator",
               "Drone safety operator"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone operator",
               "Drone safety operator"
           ],
@@ -553,12 +674,12 @@
           "commissionedBy": "Creventic",
           "type": "broadcast",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone operator",
               "Drone safety operator"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone operator",
               "Drone safety operator"
           ],
@@ -591,11 +712,11 @@
           "commissionedBy": "Talpa",
           "type": "broadcast",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator"
           ],
           "years": [
@@ -632,12 +753,12 @@
           "commissionedBy": "Villain Studios, Amazon Prime",
           "type": "broadcast",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone operator",
               "Drone safety operator"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone operator",
               "Drone safety operator"
           ],
@@ -653,11 +774,11 @@
           "commissionedBy": "Southfields",
           "type": "broadcast",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator"
           ],
           "years": [
@@ -675,7 +796,7 @@
               "Drone safety operator"
           ],
           "functionsEN": [
-              "1st Assistant Director Drone",
+              "1st AD Drone",
               "Drone safety operator"
           ],
           "years": [
@@ -689,11 +810,11 @@
           "commissionedBy": "Brainpool TV",
           "type": "broadcast",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator"
           ],
           "years": [
@@ -708,12 +829,12 @@
           "commissionedBy": "Epic Cinema",
           "type": "broadcast",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
@@ -764,10 +885,10 @@
           "commissionedBy": "Magenta Films",
           "type": "broadcast",
           "functionsNL": [
-              "Drone regie"
+              "Drone regisseur"
           ],
           "functionsEN": [
-              "Drone direction"
+              "Drone director"
           ],
           "years": [
               {
@@ -781,11 +902,11 @@
           "commissionedBy": "Fjuze",
           "type": "broadcast",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator"
           ],
           "years": [
@@ -816,11 +937,11 @@
           "commissionedBy": "Media Water",
           "type": "broadcast",
           "functionsNL": [
-              "FPV Drone regie",
+              "FPV Drone regisseur",
               "Drone safety operator"
           ],
           "functionsEN": [
-              "FPV Drone direction",
+              "FPV Drone director",
               "Drone safety operator"
           ],
           "years": [
@@ -837,7 +958,7 @@
               "1st AD"
           ],
           "functionsEN": [
-              "1st Assistant Director"
+              "1st AD"
           ],
           "years": [
               {
@@ -863,16 +984,32 @@
           ]
       },
       {
+        "name": "Bevrijdingsfestival Groningen",
+        "commissionedBy": "",
+        "type": "events",
+        "functionsNL": [
+            "Drone operator"
+        ],
+        "functionsEN": [
+            "Drone operator"
+        ],
+        "years": [
+            {
+                "year": "2023"
+            }
+        ]
+    },
+      {
           "name": "Decibel Outdoor",
           "commissionedBy": "Goose Frame, B2S",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
@@ -887,12 +1024,12 @@
           "commissionedBy": "EpicCinema, Q-dance",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
@@ -910,12 +1047,12 @@
           "commissionedBy": "EpicCinema, Q-dance",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
@@ -960,7 +1097,7 @@
           "type": "events",
           "functionsNL": [
               "Volledige productie aftermovie & recaps",
-              "Directing",
+              "Regisseur",
               "Camera",
               "Editor"
           ],
@@ -982,18 +1119,21 @@
           "commissionedBy": "Par-T",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
           "years": [
               {
                   "year": "2022"
+              },
+              {
+                    "year": "2023"
               }
           ]
       },
@@ -1029,12 +1169,12 @@
           "commissionedBy": "Goose Frame",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
@@ -1045,16 +1185,32 @@
           ]
       },
       {
+        "name": "Jonna Fraser at Ziggodome",
+        "commissionedBy": "Dieko Mirza",
+        "type": "events",
+        "functionsNL": [
+            "Drone safety operator"
+        ],
+        "functionsEN": [
+            "Drone safety operator"
+        ],
+        "years": [
+            {
+                "year": "2023"
+            }
+        ]
+      },
+      {
           "name": "Lake Dance",
           "commissionedBy": "Cameraden",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction"
           ],
@@ -1065,22 +1221,43 @@
           ]
       },
       {
+        "name": "Kingsland Groningen",
+        "commissionedBy": "Gooseframe",
+        "type": "events",
+        "functionsNL": [
+            "Drone safety operator",
+            "Show preproductie"
+        ],
+        "functionsEN": [
+            "Drone safety operator",
+            "Show preproduction"
+        ],
+        "years": [
+            {
+                "year": "2023"
+            }
+        ]
+      },
+      {
           "name": "Mysteryland",
           "commissionedBy": "EpicCinema, ID&T",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
           "years": [
               {
                   "year": "2022"
+              },
+              {
+                  "year": "2023"
               }
           ]
       },
@@ -1089,12 +1266,12 @@
           "commissionedBy": "EpicCinema, ID&T",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
@@ -1105,16 +1282,32 @@
           ]
       },
       {
+        "name": "NAS x Hennesy",
+        "commissionedBy": "Kult&Ace",
+        "type": "events",
+        "functionsNL": [
+            "Drone safety operator"
+        ],
+        "functionsEN": [
+            "Drone safety operator"
+        ],
+        "years": [
+            {
+                "year": "2023"
+            }
+        ]
+    },
+      {
           "name": "NBA x Hennesy",
-          "commissionedBy": "Vel'Or",
+          "commissionedBy": "Kult&Ace, Vel'Or",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone operator",
               "Drone safety operator"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone operator",
               "Drone safety operator"
           ],
@@ -1125,30 +1318,78 @@
           ]
       },
       {
+        "name": "Paaspop",
+        "commissionedBy": "This is Live Group",
+        "type": "events",
+        "functionsNL": [
+            "Volledige productie aftermovie",
+            "Regisseur",
+            "Camera",
+            "Editor"
+        ],
+        "functionsEN": [
+            "Full production aftermovie",
+            "Director",
+            "Camera",
+            "Editor"
+        ],
+        "years": [
+            {
+                "year": "2016"
+            },
+            {
+                "year": "2017",
+                "link": "//video.rene.io/share/KYYZAGaC9g"
+            }
+        ]
+    },
+      {
           "name": "Paaspop",
           "commissionedBy": "This is Live Group",
           "type": "events",
           "functionsNL": [
-              "Volledige productie aftermovie",
-              "Director",
+              "Daily recaps",
               "Camera",
               "Editor"
           ],
           "functionsEN": [
-              "Full production aftermovie",
-              "Director",
+              "Daily recaps",
               "Camera",
               "Editor"
           ],
           "years": [
               {
+                  "year": "2015"
+              },
+              {
                   "year": "2016"
               },
               {
-                  "year": "2017",
-                  "link": "//video.rene.io/share/KYYZAGaC9g"
+                  "year": "2017"
+              },
+              {
+                  "year": "2018"
+              },
+              {
+                  "year": "2019"
               }
           ]
+      },
+      {
+        "name": "Paaspop",
+        "commissionedBy": "Lab22, This is Live Group",
+        "type": "events",
+        "functionsNL": [
+            "Camera"
+        ],
+        "functionsEN": [
+            "Camera"
+        ],
+        "years": [
+            {
+                "year": "2023"
+            }
+        ]
       },
       {
           "name": "Paaspop XS",
@@ -1211,12 +1452,28 @@
           ]
       },
       {
+        "name": "Red Bull - Hardline",
+        "commissionedBy": "Red Bull, UMTV",
+        "type": "events",
+        "functionsNL": [
+            "Drone operator"
+        ],
+        "functionsEN": [
+            "Drone operator"
+        ],
+        "years": [
+            {
+                "year": "2023"
+            }
+        ]
+      },
+      {
           "name": "Scumbash",
           "commissionedBy": "This is Live Group",
           "type": "events",
           "functionsNL": [
               "Volledige productie aftermovie",
-              "Directing",
+              "Regisseur",
               "Camera",
               "Editor"
           ],
@@ -1256,11 +1513,11 @@
           "commissionedBy": "Flashback Media",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator"
           ],
           "years": [
@@ -1274,12 +1531,12 @@
           "commissionedBy": "MatrixxEvents, EpicCinema",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
@@ -1347,7 +1604,7 @@
               "Camera",
               "Editor",
               "Drone safety operator",
-              "Drone Director of Photography"
+              "Drone DOP"
           ],
           "years": [
               {
@@ -1361,13 +1618,13 @@
           "type": "events",
           "functionsNL": [
               "Camera",
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
               "Camera",
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
@@ -1385,12 +1642,12 @@
           "commissionedBy": "Matrixxevents",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
@@ -1421,7 +1678,7 @@
           "commissionedBy": "This is Live Group",
           "type": "events",
           "functionsNL": [
-              "Volledige productie aftermovie & recpas",
+              "Volledige productie aftermovie & recaps",
               "Camera",
               "Editor"
           ],
@@ -1480,12 +1737,12 @@
           "commissionedBy": "This is Live Group",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Editor"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Editor"
           ],
@@ -1500,21 +1757,42 @@
           "commissionedBy": "This is Live Group",
           "type": "events",
           "functionsNL": [
-              "Drone regie",
+              "Drone regisseur",
               "Drone safety operator",
               "Show preproductie drone team"
           ],
           "functionsEN": [
-              "Drone direction",
+              "Drone director",
               "Drone safety operator",
               "Show preproduction drone team"
           ],
           "years": [
               {
                   "year": "2022"
+              },
+              {
+                  "year": "2023"
               }
           ]
       },
+      {
+        "name": "Verknipt Festival",
+        "commissionedBy": "Verknipt Events",
+        "type": "events",
+        "functionsNL": [
+            "Drone safety operator",
+            "Show preproductie drone team"
+        ],
+        "functionsEN": [
+            "Drone safety operator",
+            "Show preproduction drone team"
+        ],
+        "years": [
+            {
+                "year": "2023"
+            }
+        ]
+    },
       {
           "name": "Zomerparkfeest",
           "commissionedBy": "",
